@@ -1,0 +1,20 @@
+[
+    {
+        "command": "key_tap",
+        "key": "g"
+    },
+    {
+        "command": "wait",
+        "duration": 0.05
+    },
+    {
+        "command": "mouse_click",
+        "x": 3703,
+        "y": 791,
+        "button": "left"
+    },
+    {
+        "command": "wait",
+        "duration": 0.2
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "command": "mouse_click",
+        "x": 3703,
+        "y": 791,
+        "button": "left"
+    },
+    {
+        "command": "wait",
+        "duration": 0.01
+    },
+    {
+        "command": "key_tap",
+        "key": "q",
+        "repeat": 1
+    },
+    {
+        "command": "wait",
+        "duration": 0.01
+    },
+    {
+        "command": "key_tap",
+        "key": "e",
+        "repeat": 1
+    },
+    {
+        "command": "wait",
+        "duration": 0.01
+    },
+    {
+        "command": "key_tap",
+        "key": "r",
+        "repeat": 1
+    },
+    {
+        "command": "wait",
+        "duration": 0.01
+    },
+    {
+        "command": "key_tap",
+        "key": "f",
+        "repeat": 1
+    },
+    {
+        "command": "wait",
+        "duration": 0.01
+    }
+]

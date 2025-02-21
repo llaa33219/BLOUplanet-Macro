@@ -20,3 +20,4 @@ pynput official PyPI page: https://pypi.org/project/pynput/
 
 
 ![image](https://github.com/user-attachments/assets/f44051d0-b305-4c89-84ee-38defedd43b7)
+![image](https://github.com/user-attachments/assets/f06a966b-944a-4bf3-b994-228b0d018eab)
